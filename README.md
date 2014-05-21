@@ -24,6 +24,7 @@ Files Used:
     subject_train.txt (contains subject Id in order of experiment), X_train.txt (3-axial linear acceleration) and y_train.txt (3-axial angular velocity)
   
   General Information:
+  
     features.txt (contains variables information captured like tBodyAcc-mean()-X, tBodyAcc-std()-Y, tBodyAcc-max()-X etc)
     activity_labels.txt (contains description of different activities)
 
