@@ -37,15 +37,3 @@ Output:
 
 A tidy data file: "tidy.data.txt" containing average values only for the variable containing 33 mean() variables and 33 std() variables as their measurement for all the subjects and related activities, combined for training and testing data.
     
-
-Subject ActivityDesc         MeanVariable                MeanValue     
-      1 LAYING               tBodyAcc-mean()-X            2.215982e-01
-      2 LAYING               tBodyAcc-mean()-X            2.813734e-01
-      3 LAYING               tBodyAcc-mean()-X            2.755169e-01
-      4 LAYING               tBodyAcc-mean()-X            2.635592e-01
-      5 LAYING               tBodyAcc-mean()-X            2.783343e-01
-      6 LAYING               tBodyAcc-mean()-X            2.486565e-01
-      7 LAYING               tBodyAcc-mean()-X            2.501767e-01
-      8 LAYING               tBodyAcc-mean()-X            2.612543e-01
-      9 LAYING               tBodyAcc-mean()-X            2.591955e-01
-     10 LAYING               tBodyAcc-mean()-X            2.802306e-01
