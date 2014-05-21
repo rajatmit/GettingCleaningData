@@ -29,6 +29,7 @@ Files Used:
     features.txt (contains variables information captured like tBodyAcc-mean()-X, tBodyAcc-std()-Y, tBodyAcc-max()-X etc)
     activity_labels.txt (contains description of different activities)
 
+Code File: run_analysis.R
 
 Output: 
 
