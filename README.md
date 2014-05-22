@@ -20,9 +20,11 @@ Data:
 Files Used:
   
   
-    Test -> subject_test.txt (contains subject Id in order of experiment), X_test.txt (3-axial linear acceleration) and y_test.txt (3-axial angular velocity)
+    Test -> subject_test.txt (contains subject Id in order of experiment),
+    X_test.txt (3-axial linear acceleration) and y_test.txt (3-axial angular velocity)
   
-    Train -> subject_train.txt (contains subject Id in order of experiment), X_train.txt (3-axial linear acceleration) and y_train.txt (3-axial angular velocity)
+    Train -> subject_train.txt (contains subject Id in order of experiment),
+    X_train.txt (3-axial linear acceleration) and y_train.txt (3-axial angular velocity)
   
   General Information:
   
