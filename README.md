@@ -35,6 +35,7 @@ Files Used:
 
 Output: 
 
-A tidy data file: "tidy.data.txt" containing average values only for the variable containing 33 mean() variables and 33 std() variables as their measurement for all the subjects (30) and related activities (6), combined for training and testing data.
+    A tidy data file: "tidy.data.txt" containing average values only for the variable containing 33 mean() variables and 33 std() variables as their measurement for all the subjects (30) and related activities (6), combined for training and testing data.
+    
     Total rows = 30*6*(33+33) = 11880
     Four variables: Subject, ActivityDesc, MeanVariable and MeanValue
